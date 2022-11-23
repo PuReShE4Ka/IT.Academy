@@ -1,0 +1,4 @@
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod02\LabFiles\Lab1\Starter\DatabaseTester\obj\Debug\netcoreapp2.1\DatabaseTester.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod02\LabFiles\Lab1\Starter\DatabaseTester\obj\Debug\netcoreapp2.1\DatabaseTester.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod02\LabFiles\Lab1\Starter\DatabaseTester\obj\Debug\netcoreapp2.1\DatabaseTester.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod02\LabFiles\Lab1\Starter\DatabaseTester\obj\Debug\netcoreapp2.1\DatabaseTester.AssemblyInfo.cs
