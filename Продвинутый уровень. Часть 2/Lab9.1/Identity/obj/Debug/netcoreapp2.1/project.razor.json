@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\sela\\Azure-20487D\\20487D-Developing-Microsoft-Azure-and-Web-Services\\Allfiles\\Mod09\\Labfiles\\Lab1\\Starter\\Identity\\Identity.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
